@@ -79,6 +79,3 @@ Toutes les sections du Dashboard sont dans `build_dashboard()`. Les données son
 ### Mettre à jour les Ministres
 
 La liste `ministres` dans `build_dashboard()` contient les noms et titres actuels. Modifier directement les entrées concernées.
-
----
-*Développé pour la Mission CEMAC Expert.*
